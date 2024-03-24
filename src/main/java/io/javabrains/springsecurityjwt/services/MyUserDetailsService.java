@@ -13,6 +13,7 @@ import java.util.ArrayList;
 //testing commit 2
 //creating userdetailservice class to load object of userDetails
 //commit 2 in master
+//commit 1 by feature 2
 //commit again by master
 //commit 2 by master
 
