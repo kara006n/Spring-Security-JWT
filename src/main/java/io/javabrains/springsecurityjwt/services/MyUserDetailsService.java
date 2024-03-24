@@ -8,8 +8,12 @@ import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 
+
 //testing comment 1
 //testing commit 2
+//creating userdetailservice class to load object of userDetails
+//commit 2 in master
+
 @Component
 public class MyUserDetailsService implements UserDetailsService {
       @Override
