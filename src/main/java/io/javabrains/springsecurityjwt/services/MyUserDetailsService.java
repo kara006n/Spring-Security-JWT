@@ -14,6 +14,7 @@ import java.util.ArrayList;
 //creating userdetailservice class to load object of userDetails
 //commit 2 in master
 //commit 1 by feature 2
+//commit 2 by feature 2
 
 @Component
 public class MyUserDetailsService implements UserDetailsService {
