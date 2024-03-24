@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 
+//creating userdetailservice class to load object of userDetails
 @Component
 public class MyUserDetailsService implements UserDetailsService {
       @Override
